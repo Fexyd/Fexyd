@@ -16,7 +16,6 @@ Siempre estoy abierto a colaborar con otros desarrolladores/as. Si tienes un pro
 Estoy buscando proyectos relacionados con el desarrollo de videojuegos, indie games, o incluso código abierto. Estoy abierto a todo!
 
 ### 📫 ¿Cómo contactar conmigo?
-- []
 - [Discord](https://discord.com/users/fexyd._.)  
 - [Correo](Fexyd241@gmail.com)
 
